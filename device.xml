@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/sts-tottori/a04br3" name="Benesse-a04br3-development/android_device_Benesse_a04br3" remote="github" revision="master" />
+  <project path="device/sts-tottori/a04br3" name="Benesse-a04br3-development/android_device_Benesse_a04br3_twrp" remote="github" revision="master" />
   <project path="kernel/sts-tottori/a04br3" name="Benesse-a04br3-development/android_kernel_Benesse_a04br3" remote="github" revision="master" />
 </manifest>
